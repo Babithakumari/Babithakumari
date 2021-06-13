@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Babithakumari
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web development using python and Javascript
 - 💞️ I’m looking to collaborate on Javascript Projects
 - 📫 How to reach me https://www.linkedin.com/in/babitha-kumari-06a042214/
